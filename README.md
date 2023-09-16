@@ -1,2 +1,2 @@
-# Noman School Official Website.
+# Nouman School Official Website.
 ## By, Asharib Ali. 
